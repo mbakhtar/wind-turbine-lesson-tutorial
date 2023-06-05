@@ -5,7 +5,7 @@
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* open [Wind Turbine Coding Tutorial](https://makecode.microbit.org/#tutorial:github:mbakhtar/wind-turbine-lesson-tutorial/windturbine)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/mbakhtar/wind-turbine-lesson-tutorial** and import
