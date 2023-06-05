@@ -9,11 +9,11 @@ fwd-edu-breakout=github:climate-action-kits/pxt-fwd-edu/fwd-breakout
 ## Step 1 @showdialog
 Plug your USB cable into the micro:bit. 
 Insert the micro:bit into the Climate Action Board.
-![image](https://raw.githubusercontent.com/mbakhtar/iste-wind-energy-v1/master/pair%20microbit-280x203.gif)
+![breakout board with microbit](https://raw.githubusercontent.com/mbakhtar/wind-turbine-lesson-tutorial/master/breakout-edited.png)
 
 ## Step 2 @showdialog
 Click on the button to the right of the download and follow the steps to pair our micro:bit.
-![image](https://raw.githubusercontent.com/mbakhtar/iste-wind-energy-v1/master/pair%20microbit-280x203.gif)
+![pairing gif](https://raw.githubusercontent.com/mbakhtar/iste-wind-energy-v1/master/pair%20microbit-280x203.gif)
 
 ## Step 3
 Click on the ``||fwdSensors:Sensors||`` drawer and find the 
@@ -28,6 +28,7 @@ fwdSensors.dial1.fwdOnDialTurned(fwdSensors.dialDirection.cw, function (delta) {
 Change the direction arrow of the second block. 
 Hit download to activate your ``||fwdSensors:Dial||`` and a 
 ``||fwdSensors:Touch||`` button.
+![dial direction](https://raw.githubusercontent.com/mbakhtar/wind-turbine-lesson-tutorial/master/dial%20direction%20change.gif)
 ```blocks
 fwdSensors.dial1.fwdOnDialTurned(fwdSensors.dialDirection.cw, function (delta) {
     })
